@@ -95,7 +95,7 @@
 
 .flower-windo-three {
     width: 464px;
-height: 538px;
+    height: 538px;
     align-items: center;
     justify-content: center;
 
@@ -113,4 +113,49 @@ height: 538px;
     font-style: normal;
     font-weight: 800;
     text-decoration-line: underline;
+}
+
+/* main two */
+.main-two {
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    align-items: center;
+    width: 1922px;
+    height: 620px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
+
+.main-two-left {
+    /* padding-left: 00px; */
+    text-align: center;
+}
+
+.header-one {
+    color: #272727;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+}
+
+.off {
+    color: #E55473;
+}
+
+.text-one {
+    display: flex;
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+.btn-one{
+padding: 20px 43px;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+border: none;
 }
