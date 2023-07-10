@@ -57,6 +57,7 @@
 /* main part one */
 .main-one {
     text-align: center;
+    margin-bottom: 128px;
 }
 
 .title-one {
@@ -81,61 +82,75 @@
     text-align: center;
     justify-content: center;
     align-items: center;
-    gap: 110px;
+    gap: 90px;
 }
 
-.flower-windo-one {
+/* .flower-windo-one {
     width: 464px;
     height: 538px;
 
-}
+} */
 
-.flower-windo-two {
-    width: 464px;
-    height: 538px;
-
-}
-
-.flower-windo-three {
+/* .flower-windo-two {
     width: 464px;
     height: 538px;
     
+
+} */
+
+/* .flower-windo-three {
+    width: 464px;
+    height: 538px;
+    
+} */
+.fim-one{
+    width: 300px;
+    height: 450px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    background-color: #A7216226;
+    position: relative;
+}
+
+.fim-two{
+    width: 300px;
+    height: 450px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    background-color: #0597A026;
+    position: relative;
+}
+.fim-three{
+    width: 300px;
+    height: 450px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    background-color: #477D1126;
+    position: relative;
 }
 
 .img-one{
-    /* width: 370px;
-    height: 370px;
-    
-    border-radius: 300px 300px 0px 0px;
-    background-color: rgba(167, 33, 98, 0.15);
-    border-top-left-radius: 50%;
-    border-top-right-radius: 50%; */
-    margin-bottom: 0px;
-    background-color: red;
-}
+    width: 200px;
+    height: 350px;
+    position: absolute;
+    bottom: 0px;
+    left: 15%;
+} 
 .img-two{
-    width: 370px;
-    height: 370px;
-    /* background-color: blue;
-    border-top-left-radius: 50%;
-    border-top-right-radius: 50%; */
-    background-color: red;
+    width: 200px;
+    height: 350px;
+    position: absolute;
+    bottom: 0px;
+    left: 15%;
 }
 .img-three{
-    width: 370px;
-    height: 370px;
-    background-color: blue;
-    border-top-left-radius: 50%;
-    border-top-right-radius: 50%;
+    width: 200px;
+    height: 350px;
+    position: absolute;
+    bottom: 0px;
+    left: 15%;
 }
-.fimg-one{
-    width: 464px;
-    height: 538px;
-    background-color: blue;
-    border-top-left-radius: 50%;
-    border-top-right-radius: 50%;
-    padding-top: 20px;
-}
+
 
 .ti {
     color: #272727;
