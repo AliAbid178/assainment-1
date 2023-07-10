@@ -57,7 +57,7 @@
 /* main part one */
 .main-one {
     text-align: center;
-    margin-bottom: 128px;
+    margin-bottom: 100px;
 }
 
 .title-one {
@@ -104,7 +104,7 @@
     
 } */
 .fim-one{
-    width: 300px;
+    width: 400px;
     height: 450px;
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
@@ -113,7 +113,7 @@
 }
 
 .fim-two{
-    width: 300px;
+    width: 400px;
     height: 450px;
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
@@ -121,7 +121,7 @@
     position: relative;
 }
 .fim-three{
-    width: 300px;
+    width: 400px;
     height: 450px;
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
@@ -130,21 +130,21 @@
 }
 
 .img-one{
-    width: 200px;
+    width: 300px;
     height: 350px;
     position: absolute;
     bottom: 0px;
     left: 15%;
 } 
 .img-two{
-    width: 200px;
+    width: 300px;
     height: 350px;
     position: absolute;
     bottom: 0px;
     left: 15%;
 }
 .img-three{
-    width: 200px;
+    width: 300px;
     height: 350px;
     position: absolute;
     bottom: 0px;
